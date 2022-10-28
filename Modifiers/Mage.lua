@@ -1,0 +1,15 @@
+Mage = {
+    
+}
+
+Arcane = {
+    
+}
+
+FrostMage = {
+    
+}
+
+Fire = {
+    
+}

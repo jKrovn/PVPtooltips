@@ -1,0 +1,15 @@
+Rogue = {
+    
+}
+
+Assassination = {
+    
+}
+
+Outlaw = {
+    
+}
+
+Subtlety = {
+    
+}

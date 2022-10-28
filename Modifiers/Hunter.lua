@@ -1,0 +1,15 @@
+Hunter = {
+    
+}
+
+BeastMastery = {
+    
+}
+
+Marksmanship = {
+    
+}
+
+Survival = {
+    
+}

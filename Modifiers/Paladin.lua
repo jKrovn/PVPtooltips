@@ -1,0 +1,15 @@
+Paladin = {
+    
+}
+
+HolyPaladin = {
+    
+}
+
+Retribution = {
+    
+}
+
+ProtectionPaladin = {
+    
+}

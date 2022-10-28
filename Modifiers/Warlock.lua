@@ -1,0 +1,15 @@
+Warlock = {
+    
+}
+
+Affliction = {
+    
+}
+
+Demonology = {
+    
+}
+
+Destruction = {
+    
+}

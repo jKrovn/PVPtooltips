@@ -1,0 +1,22 @@
+## Interface: 100002
+## Title: |cFFb6d7a8PVP|r Tooltips
+## Notes: PvP tooltips for retail
+## Version: 1.0.0
+## Author: Krovn
+
+Modifiers/All.lua
+Modifiers/DeathKnight.lua
+Modifiers/DemonHunter.lua
+Modifiers/Druid.lua
+Modifiers/Evoker.lua
+Modifiers/Hunter.lua
+Modifiers/Mage.lua
+Modifiers/Monk.lua
+Modifiers/Paladin.lua
+Modifiers/Priest.lua
+Modifiers/Rogue.lua
+Modifiers/Shaman.lua
+Modifiers/Warlock.lua
+Modifiers/Warrior.lua
+Specilizations.lua
+core.lua
